@@ -1,4 +1,4 @@
-## 谷雨的学习笔记
+## 考研英语笔记
 
 
-[0905 AI could fortify big business, not upend it](post/0905.md)
+[0905 - AI could fortify big business, not upend it](post/0905.md)
